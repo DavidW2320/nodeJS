@@ -1,6 +1,16 @@
-var http = reqiure('http');
-var s = http.createServer(function(req, res)){
+var http = require('http');
 
-};
+/*var s = http.createServer(function(req, res) {
+    res.writeHead(200, {'content-type': 'text/plain'});
+    res.end("hello world\n");
+});*/
+
+var s = http.createServer(function(req, res) {
+    res.writeHead(200, {'content-type': 'text/plain'});
+    res.write("hello\n");
+    setTimeout(function() {
+        res.end("world\n");
+    }, 2000);
+});
 
 s.listen(8000);
