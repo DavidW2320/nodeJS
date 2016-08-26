@@ -1,0 +1,17 @@
+Step 1: install nodeJS from 
+		https://nodejs.org/zh-cn/
+Step 2: Go over tutorials here: (你应该可以找到中文版的)
+		http://www.tutorialspoint.com/nodejs/
+		用任何编辑器都可以
+Step 3: 把以下跟着视频走一遍
+		How to develop TCP Server (Network) application using NodeJs
+			https://www.youtube.com/watch?v=HyGtI17qAjM
+	
+		How to develop TCP Client (Network) application using NodeJs     
+			https://www.youtube.com/watch?v=BvikbwV3O_c
+Step 3: 更多视频
+		Node.js - series 2 - net (TCP) module (Basics)
+			https://www.youtube.com/playlist?list=PLQw6R3B2BPb3QARt1QXMMVfAXmyyaY-dF
+			https://github.com/webtunings/node.js-examples
+
+Moreover: 如果你需要单步跟踪,智能提示, 安装WebStorm IDE，我已经破解了
